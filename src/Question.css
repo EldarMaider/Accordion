@@ -1,0 +1,14 @@
+.questionWrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+.titleWrapper {
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    line-height: 2;
+}
